@@ -1,0 +1,1 @@
+print("lost all hope")
